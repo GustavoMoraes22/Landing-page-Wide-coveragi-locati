@@ -1,4 +1,4 @@
-<h1 align="center" > Easy-Shopping </h1>
+<h1 align="center" > Wide coveragi locati </h1>
 
 <h2 align="center">Preview</h2>
 
